@@ -1,8 +1,8 @@
 /*
 Project Name: Blank Template
 Client: Your Client
-Author: Your Name
-Developer @GA in NYC
+Author: Geoff Spozetta
+Developer @GA in Melbourne!
 */
 
 
@@ -46,17 +46,16 @@ Developer @GA in NYC
 /*******************************************/
 
 body {
-     color: #FFFFFF;
-     font-size: 12px;
-     line-height: 1.4;
-     font-family: 'Open Sans', sans-serif;
-     background: url(../images/header_bg.jpg) no-repeat center top
-      rgb(134,141,157); /* no repeat to allow testimonal to function */
-      background-size: cover;
+  color: #FFFFFF;
+  font-size: 12px;
+  line-height: 1.4;
+  font-family: 'Open Sans', sans-serif;
+  background: url(../images/header_bg.jpg) no-repeat center top
+  rgb(134,141,157); /* no repeat to allow testimonal to function */
+  background-size: cover;
 }
 
 h1{
-
   text-align: left;
   margin-top: 50px;
   padding-bottom: 50px;
@@ -66,24 +65,23 @@ h1{
 }
 
 h2 {
-  padding: 100px 0px 100px 0px;
+  padding: 100px 0 100px 0;
   font-weight: 600;
   font-size: 24px;
   text-align: center;
 }
 
-ul{
+ul {
   font-size: 13px;
   font-weight: 300;
 }
 
-p{
+p {
   font-size: 13px;
   font-weight: 300;
-
 }
 
-cite{
+cite {
   font-size: 18px;
   font-weight: 600;
 
@@ -91,32 +89,31 @@ cite{
 
 /* classes */
 
-.testimonial{
+.testimonial {
   background-image: url(../images/testimonial_bg.jpg);
   padding: 80px 240px;
   font-size: 18px;
   font-style: italic;
   background-color: rgba(3 , 48, 72, 0.5);
-
 }
 
 .button {
-padding: 20px 70px;
-box-sizing: border-box;
-margin: 0 auto;
-text-align: center;
-display: inline-block;
-font-size: 14px;
-font-weight:800;
-border: 5px;
-border-radius: 5px;
-border-style: solid;
-border-color: rgb(249,228,46);
-background-color: rgb(249,228,46);
+  padding: 20px 70px;
+  box-sizing: border-box;
+  margin: 0 auto;
+  text-align: center;
+  display: inline-block;
+  font-size: 14px;
+  font-weight:800;
+  border: 5px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: rgb(249,228,46);
+  background-color: rgb(249,228,46);
 
 }
 
-.sign-up{
+.sign-upv{
   margin-left: 110px;
   margin-bottom: 40px;
   padding: 20px 70px;
@@ -147,14 +144,12 @@ background-color: rgb(249,228,46);
   width: 100%;
   margin: auto;
   height: 500px;
-
 }
 
 header {
   padding: 23px 23px 120px 120px;
   text-align: center;
   font-family: 'Open Sans', sans-serif;
-
 }
 
 footer {
@@ -162,16 +157,14 @@ footer {
   text-align: center;
   font-size: 9px;
   font-weight: 600;
-
 }
 footer > span {
     text-transform: uppercase;
     font-size: 24px;
     font-weight: 600;
-
 }
 
-aside{
+aside {
   background-color: rgb(0,0,0);
   text-align: center;
 }
